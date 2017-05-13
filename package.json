@@ -1,5 +1,5 @@
 {
-    "version": "1.5.5",
+    "version": "1.5.6.58",
     "name": "com.paypal.mpl-android",
     "cordova_name": "PayPal MPL",
     "description": "add PayPal MPL SDK (Mobile Payment Library, not new SDK) to cordova project as dependency of other plugins",
